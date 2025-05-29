@@ -1,8 +1,8 @@
 {
     "name": "Tether USD",
-    "symbol": "$USD\u20ae",
+    "symbol": "$USD₮",
     "decimals": 6,
-    "description": "USD\u20ae is a digital token, nominally pegged to the US dollar. For testing or demo purposes only. Not real.",
+    "description": "USD₮ is a digital token, nominally pegged to the US dollar. For testing or demo purposes only. Not real.",
     "image": "https://i.imgur.com/5wG6N7T.png",
     "social": {
         "website": "https://example.com",
